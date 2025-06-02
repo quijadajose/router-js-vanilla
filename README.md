@@ -43,6 +43,7 @@ router-js-vanilla/
   4. Si no existe, muestra un mensaje de error 404.
 
 ## Código clave
+![Presentación sin título(1)](https://github.com/user-attachments/assets/41b2188b-aa5a-4698-9819-adfeb1aca284)
 
 ```js
 const routes = {
