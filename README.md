@@ -2,6 +2,8 @@
 
 Este proyecto es un ejemplo simple de un enrutador (router) hecho en JavaScript puro (vanilla JS), que permite cargar diferentes plantillas HTML según la ruta seleccionada, sin recargar la página
 
+https://github.com/user-attachments/assets/465726c8-f450-4b75-9692-cffd8c1b83df
+
 ## ¿Cómo funciona?
 
 - El archivo [`index.html`](index.html) contiene la estructura principal y un `<nav>` con enlaces que cambian la URL usando el hash (`#`)
